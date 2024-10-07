@@ -1,0 +1,3 @@
+x = "Karolina"
+
+print(x)
